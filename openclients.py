@@ -8,6 +8,8 @@ import time
 import pygame
 import win32gui
 
+# Written by Idlan bin Hafiz
+
 # Path to your Ascension WoW client executable
 client_path = r"D:\\Ascension WoW\\Ascension Launcher\\resources\\client\\Ascension.exe"
 fanfare_sound = r"D:\\WinTradeBot\\ff_fanfare.mp3"  # Path to the Fanfare sound file
