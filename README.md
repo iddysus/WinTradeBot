@@ -15,7 +15,7 @@
 2. Install the required Python libraries:
    pip install -r requirements.txt
 
-Usage
+##Usage
 Prepare your World of Warcraft private server client.
 Adjust the bot settings in config.json (or directly in the script) to match your screen resolution and game window.
 Start the bot:
@@ -24,7 +24,7 @@ Copy code
 python master.py
 Monitor the bot as it automates the win-trading process.
 
-Files Included
+##Files Included
 master.py: Main script to run the bot.
 openclients.py: Handles multiple game clients.
 reference_maps/: Contains the reference images used for OpenCV image detection (maps, player frames, etc.).
