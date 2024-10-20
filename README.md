@@ -25,11 +25,11 @@ python master.py
 Monitor the bot as it automates the win-trading process.
 
 ##   Files Included
-# master.py: Main script to run the bot.
-# openclients.py: Handles multiple game clients.
-# reference_maps/: Contains the reference images used for OpenCV image detection (maps, player frames, etc.).
-# testing_screenshots/: Sample screenshots used during testing.
-# ff_fanfare.mp3: Audio file used in the bot (can be any sound or notification).
+### master.py: Main script to run the bot.
+### openclients.py: Handles multiple game clients.
+### reference_maps/: Contains the reference images used for OpenCV image detection (maps, player frames, etc.).
+### testing_screenshots/: Sample screenshots used during testing.
+### ff_fanfare.mp3: Audio file used in the bot (can be any sound or notification).
 ## Contributing
-# Feel free to open an issue or submit a pull request for improvements or bug fixes.
+### Feel free to open an issue or submit a pull request for improvements or bug fixes.
 
