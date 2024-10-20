@@ -17,7 +17,7 @@
 
 ##   Usage
 Prepare your World of Warcraft private server client.
-Adjust the bot settings in config.json (or directly in the script) to match your screen resolution and game window.
+Adjust the bot settings in master.py and openclients.py to match your screen resolution and game window.
 Start the bot:
 bash
 Copy code
