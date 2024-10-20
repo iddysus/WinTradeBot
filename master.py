@@ -11,6 +11,8 @@ import glob
 import keyboard  # Import the keyboard module
 from datetime import datetime
 
+# Written by Idlan bin Hafiz
+
 # Configure Tesseract executable path (adjust this path to your local setup)
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
